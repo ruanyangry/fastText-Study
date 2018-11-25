@@ -8,6 +8,8 @@ wikizhdeal.py: 对wikizh.py 输出的 wiki.txt 进行处理，生成 train,test,
 
 train_supervised_ruanyang.py: 利用fastText中的 train_supervised 进行模型训练，最后对输入文本进行预测操作  
 
+fasttext_linux_py: 基于python中的subprocess模块调用单独编译的 linux 版本 fasttext，等价于官网上的基于命令行的调用形式  
+
 # 預安装软件  
 
 https://github.com/facebookresearch/fastText;  
