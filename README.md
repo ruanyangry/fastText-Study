@@ -14,4 +14,5 @@ https://github.com/facebookresearch/fastText;
 https://github.com/pybind/pybind11;  
 https://github.com/RaRe-Technologies/gensim;  
 
-目的是熟悉：fastText 进行文本分类的操作  
+# 目的  
+熟悉fastText 进行文本分类的操作  
