@@ -55,7 +55,7 @@ model.save_model( r"C:\Users\RY\Desktop\wikizhfasttext.bin")
 
 model.quantize(input=train_data, qnorm=True, retrain=True, cutoff=100000)
 print_results(*model.test(valid_data))
-model.save_model( r"C:\Users\RY\Desktop\ikizhfasttext.ftz")
+model.save_model( r"C:\Users\RY\Desktop\wikizhfasttext.ftz")
 
 # 加载训练好的模型
 
