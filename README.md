@@ -1,5 +1,6 @@
 # fastText-Study
-学习fastText进行文本分类，对wiki中文数据集进行分类操作。  
+
+    学习fastText进行文本分类，对wiki中文数据集进行分类操作。  
 
     wikizh.py: 对https://dumps.wikimedia.org/zhwiki/20180801/ 上下载的语料进行预处理操作  
                参考：https://kexue.fm/archives/4176  
@@ -22,6 +23,7 @@
     https://github.com/fxsjy/jieba;  
 
 # 目的  
+
     1. 熟悉fastText 进行文本分类的操作  
     2. text CNN 算法基于词和分词实现  
 
